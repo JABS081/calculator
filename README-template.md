@@ -100,6 +100,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
+- Im the author of these work @[JABS](https://github.com/JABS081/calculator)
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
